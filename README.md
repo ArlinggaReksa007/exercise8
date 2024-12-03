@@ -58,8 +58,7 @@ Repositori ini berisi implementasi dari *Exercise 8 – Demonstrate how to elimi
 ---
 
 ## **Demonstrasi**
-![Exercise8](https://github.com/user-attachments/assets/624166aa-669c-406f-b8dc-e3fffcdba50c)
-
+https://github.com/user-attachments/assets/d523bac9-8a68-4e68-9e73-d259bb2f6974
 
 ---
 
